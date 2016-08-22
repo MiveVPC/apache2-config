@@ -1,0 +1,8 @@
+# Static apache2 files
+conf-available/
+conf-enabled/
+envvars
+magic
+mods-available/
+mods-enabled/
+sites-enabled/
