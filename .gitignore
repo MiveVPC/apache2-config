@@ -1,4 +1,4 @@
-# Static apache2 files
+# Static apache2 files not needing to be tracked
 conf-available/
 conf-enabled/
 envvars
